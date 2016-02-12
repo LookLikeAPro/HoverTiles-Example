@@ -1,0 +1,18 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'codropsicons';
+	src:url('./fonts/codropsicons/codropsicons.eot');
+	src:url('./fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('./fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('./fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('./fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+}
+
+body {
+	background: #2f3238;
+	color: #fff;
+	font-weight: 400;
+	font-size: 1em;
+	font-family: 'Raleway', Arial, sans-serif;
+}
